@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieAppTemplate</string>
+    <string name="title_home">Home</string>
+    <string name="title_watchlist">Watchlist</string>
+    <string name="title_moviecards">Movie Cards</string>
+    <string name="title_account">Account</string>
+</resources>
